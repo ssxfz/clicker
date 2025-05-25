@@ -36,3 +36,4 @@ if __name__ == "__main__":
     window = ImageButtonWindow()
     window.show()
     sys.exit(app.exec_())
+    #lkj
