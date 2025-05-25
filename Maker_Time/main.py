@@ -6,17 +6,16 @@ import sys
 class ImageButtonWindow(QWidget):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Кнопка із лічильником Score")
+        self.setWindowTitle("Clicker")
 
-        self.score = 0  # Початковий рахунок
+        self.score = 0
 
         layout = QVBoxLayout()
 
-        # Надпис Score
         self.score_label = QLabel(f"Score: {self.score}")
         layout.addWidget(self.score_label)
 
-        # Кнопка з іконкою
+
         btn = QPushButton("")
         btn.setIcon(QIcon(r"C:\Users\Robocode\Documents\Projects\Python\Maker_Time\.idea\Foto\575bc383e578c1553e73bb64.png"))
         btn.setIconSize(QSize(100, 100))
@@ -36,4 +35,3 @@ if __name__ == "__main__":
     window = ImageButtonWindow()
     window.show()
     sys.exit(app.exec_())
-    #
