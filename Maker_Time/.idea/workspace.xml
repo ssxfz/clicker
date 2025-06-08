@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83fc0f6d-c24c-41bf-875a-308a4fd9449c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Pengi.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../maker time/home.py" afterDir="false" />
+    <list default="true" id="83fc0f6d-c24c-41bf-875a-308a4fd9449c" name="Changes" comment="Сss, super bonus, all tasks">
+      <change afterPath="$PROJECT_DIR$/../maker time/Minecraft-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Foto/575bc383e578c1553e73bb64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Foto/5b01a5244e2df1637e6d15e0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pengi.css" beforeDir="false" afterPath="$PROJECT_DIR$/Pengi.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maker time/home.py" beforeDir="false" afterPath="$PROJECT_DIR$/../maker time/home.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +36,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Robocode/Documents/Projects/Python/Maker_Time"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Robocode/Documents/Projects/Python/Maker_Time&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Robocode\Documents\Projects\Python\Maker_Time\Maker_Time" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -57,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1748185863946</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сss, super bonus, all tasks">
+      <option name="closed" value="true" />
+      <created>1748797069490</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748797069490</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сss, super bonus, all tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сss, super bonus, all tasks" />
   </component>
 </project>

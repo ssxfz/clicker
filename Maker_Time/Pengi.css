@@ -1,6 +1,10 @@
 QPushButton {
     border: none;
     background: rgb(35, 84, 174);
+    color: white;
+    font-size: 22px;
+    padding: 14px 24px;
+    border-radius: 10px;
 }
 
 QPushButton:hover {
@@ -8,10 +12,48 @@ QPushButton:hover {
     background: rgb(53, 102, 193);
 }
 
+QPushButton:disabled {
+    background: rgb(100, 100, 100);
+    color: rgb(180, 180, 180);
+}
+
+/* Якщо хочеш окремий стиль для кнопки кліку — додай у коді: self.btn.setObjectName("clickButton") */
+QPushButton#clickButton {
+    border: none;
+    background: transparent;
+}
+
+/* Лейбли */
 QLabel {
     color: rgb(49, 49, 128);
-    font-size: 18px;
+    font-size: 26px;
+    font-weight: bold;
 }
+
+/* Лейбл множника */
+QLabel#multiplierLabel {
+    font-size: 28px;
+    color: rgb(200, 30, 30);
+}
+
+/* Фон */
 QWidget {
     background: rgb(126, 182, 214);
+}
+
+/* QMessageBox */
+QMessageBox {
+    background-color: rgb(240, 240, 240);
+    font-size: 22px;
+}
+
+QMessageBox QLabel {
+    font-size: 22px;
+    color: rgb(30, 30, 30);
+}
+
+QMessageBox QPushButton {
+    font-size: 20px;
+    padding: 10px 20px;
+    min-width: 100px;
 }
